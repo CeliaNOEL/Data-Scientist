@@ -1,0 +1,1 @@
+my_hash = {Bitcoin: $6558.07, Ethereum: $468.95, XRP: $0.487526, etc.}
